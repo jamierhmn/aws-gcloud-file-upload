@@ -8,3 +8,5 @@
   4)  flask run
 
 You can open the app in localhost and upload image  & media to AWS and document to Gcloud
+
+#Test Cases(functional and unit) will be added shortly.  
