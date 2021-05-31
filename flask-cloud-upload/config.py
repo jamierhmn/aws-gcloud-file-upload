@@ -10,5 +10,5 @@ SECRET_KEY                = os.urandom(32)
 DEBUG                     = True
 PORT                      = 5000
 ALLOWED_EXTENSIONS_IMG_MEDIA = {'jpg', 'png', 'svg','webp','mp3', 'mp4', 'mpeg4', 'wmv', '3gp','webm'}
-
+#extension of media and image file will be kept in separate data structure(set) 
 ALLOWED_EXTENSIONS_DOC = {'doc','docx','csv','pdf'}
